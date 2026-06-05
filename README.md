@@ -1,0 +1,1 @@
+# pamaacademy-static
