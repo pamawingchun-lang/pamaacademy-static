@@ -10,7 +10,14 @@
 
 - [Home](https://www.pamaacademy.it): presentazione dell'academy, discipline offerte, filosofia didattica, blog e contatti.
 - [Chi Siamo](https://www.pamaacademy.it/chi-siamo): biografia di Sifu Acerra Emanuele, titoli agonistici, metodo di insegnamento PAMA.
-- [Corsi](https://www.pamaacademy.it/corsi): schede complete di tutte le discipline (Wing Chun, Nei Gong, Kung Fu bambini, Free Fight, Difesa Personale, Danza, MARZIAL-Fit).
+- [Corsi](https://www.pamaacademy.it/corsi): schede complete di tutte le discipline offerte da P.A.M.A. Academy.
+  - **Wing Chun** (tutte le età): arte marziale cinese basata sulla struttura, la linea centrale e l'economia di movimento. Non richiede forza fisica. Adatta a uomini e donne di qualsiasi età.
+  - **Nei Gong** (tutte le età): lavoro interno su respiro, energia e centratura. Disciplina taoista per il benessere fisico e mentale profondo.
+  - **Kung Fu Wushu** (bambini dai 3 anni): arti marziali tradizionali cinesi per bambini e ragazzi. Sviluppa concentrazione, coordinazione, rispetto e disciplina.
+  - **Free Fight** (dai 14 anni): combattimento tecnico in ambiente controllato. Integra tecniche di striking e grappling per chi vuole mettersi alla prova.
+  - **Difesa Personale** (tutte le età): tecniche pratiche per la sicurezza personale. Focus sulla prevenzione, la lettura della situazione e la risposta efficace.
+  - **Danza Classica, Hip Hop, Latino Americano** (dai 3 anni): corsi di danza per bambini, ragazzi e adulti. Grazia, ritmo, espressione corporea e libertà di movimento.
+  - **MARZIAL-Fit** (tutte le età): allenamento funzionale con intenzione marziale. Ogni esercizio ha un perché tecnico. Forma fisica e consapevolezza del corpo.
 - [Contatti](https://www.pamaacademy.it/contatti): indirizzo, orari, telefono, email e WhatsApp.
 - [Guida Omaggio](https://www.pamaacademy.it/guide-omaggio): guida gratuita "5 cose che nessuno ti dice prima di iniziare le arti marziali".
 
